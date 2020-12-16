@@ -1,3 +1,6 @@
-# Projetos-em-C
-Projetos de estruturas de dados e algoritmos de ordenação realizados em C 
-Projetos separdos em Branchs
+# Sorting Algorithms
+Quick Sort.
+Insertion Sort.
+Selection Sort.
+Heap Sort.
+Merge Sort.
